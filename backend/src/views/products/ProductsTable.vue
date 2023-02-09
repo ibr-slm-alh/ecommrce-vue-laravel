@@ -1,12 +1,12 @@
 <template>
-<div class="">
-    <h1 class="float-left">Dashboard</h1>
-</div>
+<h1>products-table</h1>
 </template>
 
 <script>
 export default {
-    name: "Login"
+    name: "ProductsTable",
+    components: {}
+
 }
 </script>
 

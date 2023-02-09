@@ -1,12 +1,10 @@
 <template>
-<div class="">
-    <h1 class="float-left">Dashboard</h1>
-</div>
+<h1>Products Modal</h1>
 </template>
 
 <script>
 export default {
-    name: "Login"
+name: "ProductModal.vue"
 }
 </script>
 
